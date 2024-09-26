@@ -5,9 +5,11 @@ When I was in middle school, I often played this game with my friends during Eng
 
 However, there’s one flaw with this game: sometimes, my friends are so silly that they incorrectly relay the outcomes of my guesses. Those who have played this game know that when this happens, winning becomes nearly impossible. This project aims to eliminate such mistakes. The program automatically provides the results for each guess, allowing players to focus on the game. So, go ahead, run the code, and try to become the next Shohei Ohtani!
 
+<p align="center">
 <img width="800" alt="Screenshot 2024-09-26 at 15 34 28" src="https://github.com/user-attachments/assets/bddb5704-dd2b-4096-b8bd-e274cdb47585">
+</p>
 
-## Game Rules:  
+## Game Rules
 This game is a 1v1 number-guessing game that takes turns between players. 
 Here's how it works:  
 1. Both players select a secret 3-digit number where:
