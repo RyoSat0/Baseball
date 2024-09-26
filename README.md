@@ -22,7 +22,7 @@ Here's how it works:
     - If none of the digits are in the secret number, it’s an **OUT**.  
 4. The game continues until one player correctly guesses the opponent’s secret number.
 
-## Example:  
+## Example  
 - **Secret number:** 168  
 - **Guess 1:** 123 -> **Result:** 1 strike, 0 balls  
 - **Guess 2:** 716 -> **Result:** 0 strikes, 2 balls  
