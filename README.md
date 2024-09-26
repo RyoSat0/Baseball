@@ -1,6 +1,7 @@
 # Baseball 
 "Baseball" is a classic 1v1 number-guessing game featuring a Tkinter-based GUI seamlessly integrated with Python game logic for an engaging player experience.
 
+# Vision 
 When I was in middle school, I often played this game with my friends during English class, which was not enjoyable and felt like it would last forever. It's a simple game that shouldn't be addictive, yet “just one more match” ends up consuming the entire class.
 
 However, there’s one flaw with this game: sometimes, my friends are so silly that they incorrectly relay the outcomes of my guesses. Those who have played this game know that when this happens, winning becomes nearly impossible. This project aims to eliminate such mistakes. The program automatically provides the results for each guess, allowing players to focus on the game. So, go ahead, run the code, and try to become the next Shohei Ohtani!
