@@ -9,7 +9,7 @@ However, there’s one flaw with this game: sometimes, my friends are so silly t
 <p align="center">
 <img width="750" alt="Screenshot 2024-09-26 at 15 34 28" src="https://github.com/user-attachments/assets/bddb5704-dd2b-4096-b8bd-e274cdb47585">
 </p>
-　
+
 ## Game Rules
 This game is a 1v1 number-guessing game that takes turns between players. 
 Here's how it works:  
